@@ -1,1 +1,1 @@
-const app = "App";
+const app = "App JS";
